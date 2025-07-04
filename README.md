@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23068
-Fork on GitHub
-7759
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Rivinma Dissanayke</h1>
 <h3 align="center">A passionate Web Designer & Developer in Sri Lanka</h3>
 
