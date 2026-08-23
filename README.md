@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,16&height=220&section=header&text=Hi%20there,%20I'm%20Rivinma%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20%26%20Web%20Developer%20%7C%20UI%2FUX%20Enthusiast&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,16&height=220&section=header&text=Hi%20there,%20I'm%20Rivinma%20✨&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Mobile%20%26%20Web%20Specialist&descFontSize=18&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Text -->
   <a href="https://github.com/rivinmawethmini">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=E75480&center=true&vCenter=true&width=460&lines=Passionate+Flutter+%26+Mobile+Dev+📱;Frontend+%26+Full-Stack+Enthusiast+🌸;Crafting+Aesthetic+%26+Modern+Apps+✨;Lifelong+Learner+%26+Tech+Explorer+🌷" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1000&color=E75480&center=true&vCenter=true&width=500&lines=Software+Engineer+💻;Passionate+Mobile+%26+Web+Dev+📱;Building+Scalable+Enterprise+Apps+🚀;Crafting+Aesthetic+%26+Modern+UI/UX+✨" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -29,15 +29,14 @@
 
 ### 🌸 About Me
 
-> 👩‍💻 **Final-year Software Engineering Undergraduate** @ SLIIT  
-> 📱 Passionate about cross-platform **Mobile App Development** (Flutter & React Native)  
-> ✨ Love designing intuitive UI/UX with clean and modern aesthetics  
-> 💡 Exploring modern backend systems, Cloud, & AI integrations  
-> ☕ Powered by coffee, creativity, and clean code  
+> 👩‍💻 **Software Engineer** specializing in Full-Stack & Mobile Application Development  
+> 📱 Experienced in building scalable, cross-platform mobile applications using **Flutter** and **React Native**  
+> ✨ Passionate about designing intuitive UI/UX and developing robust enterprise systems  
+> 💡 Exploring modern backend architectures, Cloud deployments, and IoT integrations  
 
-- 🔭 **Currently Working On:** High-performance Mobile & Web Applications  
-- 🌱 **Learning & Exploring:** Advanced State Management, Clean Architecture & Cloud Services  
-- 💬 **Ask Me About:** Flutter, Dart, Java, React, RESTful APIs & UI/UX Design  
+- 🔭 **Currently Working On:** High-performance Enterprise Mobile & Web Applications  
+- 🌱 **Learning & Exploring:** Advanced State Management, Clean Architecture & CI/CD Pipelines  
+- 💬 **Ask Me About:** Flutter, Dart, React, RESTful APIs, Spring Boot & UI/UX Design  
 - 💌 **Get in Touch:** `dissanayakerivinma@gmail.com`  
 
 ---
@@ -53,28 +52,29 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 </p>
 
 #### 💻 Web & Backend Development
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
 
-#### 🛠️ Databases, Cloud & Design
+#### 🛠️ Databases, Cloud & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
